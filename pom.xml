@@ -18,7 +18,7 @@
     </properties>
    <distributionManagement>
         <repository>
-            <id>deploymentRepo</id>
+            <id>maven-hosted</id>
             <url>http://34.93.144.130:8081/repository/maven-hosted/</url>
         </repository>
   </distributionManagement>
