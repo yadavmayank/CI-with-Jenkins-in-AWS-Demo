@@ -19,7 +19,7 @@
    <distributionManagement>
         <repository>
             <id>maven-hosted</id>
-            <url>http://34.93.144.130:8081/repository/maven-hosted/</url>
+            <url>http://34.93.251.44:8081/repository/devops-release/</url>
         </repository>
   </distributionManagement>
 
